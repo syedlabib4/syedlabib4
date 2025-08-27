@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Labib</h1>
 <h3 align="center">A passionate Full Stack JavaScript Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/username/repo/main/animated-gif-2.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 
 <p align="left"> 
