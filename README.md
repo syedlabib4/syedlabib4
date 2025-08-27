@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/labib bukhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="labib bukhari" height="30" width="40" /></a>
-<a href="https://fb.com/syed labib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed labib" height="30" width="40" /></a>
-<a href="https://instagram.com/labib._.xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="labib._.xx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.instagram.com/labib._.xx?igsh=znrqy3yzcgq4bhhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.instagram.com/labib._.xx?igsh=znrqy3yzcgq4bhhq" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/1cgaxnf4j3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1cgaxnf4j3/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/labib._.xx?igsh=znrqy3yzcgq4bhhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/labib._.xx?igsh=znrqy3yzcgq4bhhq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
