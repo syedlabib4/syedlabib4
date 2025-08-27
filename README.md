@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Labib</h1>
 <h3 align="center">A passionate Full Stack JavaScript Developer</h3>
-<video align="right" width="400" autoplay loop muted playsinline>
-  <source src="your-video.mp4" type="video/mp4">
-</video>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 
 
