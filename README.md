@@ -23,6 +23,18 @@
 
 ---
 
+### 🎓 Certifications
+
+- 🏆 [IT Specialist – Python (Certiport / Credly)](https://www.credly.com/badges/e0754a53-2497-48ed-919e-828a88695544/linked_in_profile)
+- 🤖 [Career Essentials in AI — Microsoft](https://www.linkedin.com/learning/certificates/dd9c9b26e440fd063e5f17a49ed20030a046c0da6be2555b4c2c2e069b7977e9)
+- ⚡ [JavaScript (Intermediate) — HackerRank](https://www.hackerrank.com/certificates/3364d0c72a95)
+- ⚛️ [React — HackerRank](https://www.hackerrank.com/certificates/f0615839d655)
+- 🎨 [Front-End Development Libraries — freeCodeCamp](https://freecodecamp.org/certification/fcc8d1afbc7-a9f3-442d-af0e-c27cdb3544b2/front-end-development-libraries)
+- 📜 [JavaScript Basics — HackerRank](https://www.hackerrank.com/certificates/627cd0792b2b)
+- 🌐 [Responsive Web Design — freeCodeCamp](https://freecodecamp.org/certification/fcc8d1afbc7-a9f3-442d-af0e-c27cdb3544b2/responsive-web-design)
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/labib-bukhari-18a672321" target="blank">
