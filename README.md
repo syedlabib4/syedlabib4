@@ -33,23 +33,6 @@
 - 📜 [JavaScript Basics — HackerRank](https://www.hackerrank.com/certificates/627cd0792b2b)
 - 🌐 [Responsive Web Design — freeCodeCamp](https://freecodecamp.org/certification/fcc8d1afbc7-a9f3-442d-af0e-c27cdb3544b2/responsive-web-design)
 
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/labib-bukhari-18a672321" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/share/1CGAXnf4j3/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/labib._.xx?igsh=ZnRqY3YzcGQ4bHhq" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-<a href="https://github.com/syedlabib4" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-</a>
-</p>
 
 ---
 
@@ -85,6 +68,25 @@
 </p>
 
 ---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/labib-bukhari-18a672321" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/share/1CGAXnf4j3/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/labib._.xx?igsh=ZnRqY3YzcGQ4bHhq" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+<a href="https://github.com/syedlabib4" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+</a>
+</p>
+
+---
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedlabib4&show_icons=true&locale=en&layout=compact" alt="syedlabib4" /></p>
 
