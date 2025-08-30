@@ -25,13 +25,13 @@
 
 ### 🎓 Certifications
 
-- 🏆 [IT Specialist – Python (Certiport / Credly)](https://www.credly.com/badges/e0754a53-2497-48ed-919e-828a88695544/linked_in_profile)
-- 🤖 [Career Essentials in AI — Microsoft](https://www.linkedin.com/learning/certificates/dd9c9b26e440fd063e5f17a49ed20030a046c0da6be2555b4c2c2e069b7977e9)
-- ⚡ [JavaScript (Intermediate) — HackerRank](https://www.hackerrank.com/certificates/3364d0c72a95)
-- ⚛️ [React — HackerRank](https://www.hackerrank.com/certificates/f0615839d655)
-- 🎨 [Front-End Development Libraries — freeCodeCamp](https://freecodecamp.org/certification/fcc8d1afbc7-a9f3-442d-af0e-c27cdb3544b2/front-end-development-libraries)
-- 📜 [JavaScript Basics — HackerRank](https://www.hackerrank.com/certificates/627cd0792b2b)
-- 🌐 [Responsive Web Design — freeCodeCamp](https://freecodecamp.org/certification/fcc8d1afbc7-a9f3-442d-af0e-c27cdb3544b2/responsive-web-design)
+- 🏆 **IT Specialist – Python Programming** (Global Certification by Certiport / Pearson, via Credly)(https://www.credly.com/badges/e0754a53-2497-48ed-919e-828a88695544/linked_in_profile)
+- 🤖 **Career Essentials in Artificial Intelligence** (Microsoft, Industry Recognized)(https://www.linkedin.com/learning/certificates/dd9c9b26e440fd063e5f17a49ed20030a046c0da6be2555b4c2c2e069b7977e9)
+- ⚡ **HackerRank JavaScript Intermediate Certificate** (Proven Advanced Problem-Solving Skills in JS)(https://www.hackerrank.com/certificates/3364d0c72a95)
+- ⚛️ **HackerRank React Certificate** (Validated Frontend Development Expertise with React.js)  (https://www.hackerrank.com/certificates/f0615839d655)
+- 🎨 **Front-End Development Libraries Certification** (FreeCodeCamp – 300+ hours of hands-on projects)(https://freecodecamp.org/certification/fcc8d1afbc7-a9f3-442d-af0e-c27cdb3544b2/front-end-development-libraries)
+- 📜 **HackerRank JavaScript Basics Certificate** (Core JavaScript Fundamentals & Coding Challenges)(https://www.hackerrank.com/certificates/627cd0792b2b)
+- 🌐 **Responsive Web Design Certification** (FreeCodeCamp – 300+ hours of practical HTML & CSS mastery)  (https://freecodecamp.org/certification/fcc8d1afbc7-a9f3-442d-af0e-c27cdb3544b2/responsive-web-design)
 
 
 ---
